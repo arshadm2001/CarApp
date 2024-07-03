@@ -1,0 +1,17 @@
+{
+  "name": "carapp",
+  "version": "1.0.0",
+  "description": "Going to be making an applications that is usable on the road - should be used to navigate, source, and locate recources needed nearby when needed - if any suggestions , please let me know",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "leaflet": "^1.9.4"
+  }
+}
